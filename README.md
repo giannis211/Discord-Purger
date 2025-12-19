@@ -28,4 +28,3 @@ To use this tool, you need your Discord Authorization Token. Follow the visual g
 * **Self-Bots:** Using self-bots is technically against Discord's Terms of Service. Use this tool at your own risk.
 * **Rate Limits:** Do not set the delay lower than 1.5 seconds. Rapid deletions can lead to account flags.
 * **Token Security:** Never share your Discord Token with anyone. It gives full access to your account.
-3.  **License:** It is a good idea to add a file named `LICENSE` (choose MIT) so people know they can use your code.
